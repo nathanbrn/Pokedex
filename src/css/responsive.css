@@ -19,7 +19,7 @@
     }
 }
 
-@media screen and (max-width: 393px) {
+@media screen and (max-width: 350px) {
     .pokemons {
         grid-template-columns: 1fr;
     }
